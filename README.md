@@ -47,7 +47,5 @@ If all tickets for an event are sold out, customers can opt to be added to a wai
    ```bash
    git clone https://github.com/yourusername/event-ticket-management.git
 
-## Original Draft
 
-The original draft of the code is provided in a single .cpp file containing all the ideas and initial implementation. It has been modularized and structured into separate header and source files for better organization and readability.
 
